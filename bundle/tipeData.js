@@ -27,9 +27,3 @@ console.log({ mixedArray });
 let isTuple;
 isTuple = [17, "Mirza", true];
 console.log({ isTuple });
-/**
- * Custom Tipe Data Object
- */
-let Friend;
-Friend = { name: "Diego", age: 18, isDead: false };
-console.log({ Friend });
