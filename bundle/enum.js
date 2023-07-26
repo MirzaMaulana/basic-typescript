@@ -1,6 +1,8 @@
 "use strict";
 /**
  * enum di typescript
+ * Enum adalah fitur dalam bahasa pemrograman
+ * TypeScript yang memungkinkan Anda mendefinisikan kumpulan nilai yang bernama secara eksplisit.
  */
 var DayOfWeek;
 (function (DayOfWeek) {
